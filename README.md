@@ -1,5 +1,4 @@
 # Titanic passenger survival prediction
-________________________________________
 Prediction of Titanic's passenger survival using ML 
 
 
