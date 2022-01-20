@@ -13,4 +13,4 @@ Applied Feature engineering with Logistic Regression, Decision Tree and Rando Fo
 
 Best Kaggle prediction was by using Random Forest Model with max_depth = 10
 
-https://www.kaggle.com/c/titanic/submissions
+Competition Website: https://www.kaggle.com/c/titanic/submissions
