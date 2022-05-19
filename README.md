@@ -12,8 +12,8 @@ Data Analysis
 Applied Feature engineering with Logistic Regression, Decision Tree and Random Forest Model
 
 Visualization of survival rate of males and females according to passenger class:
+![image](https://user-images.githubusercontent.com/55586376/169271171-d307ac72-7297-4647-a78f-5a06a14ab14a.png)
 
-![image](https://user-images.githubusercontent.com/55586376/150606852-45d233df-e021-4180-921b-250df44728d8.png)
 
 
 
